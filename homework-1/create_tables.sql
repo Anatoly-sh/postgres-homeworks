@@ -34,3 +34,4 @@ CREATE TABLE orders
 SELECT * FROM orders;
 SELECT * FROM employees;
 SELECT * FROM customers;
+
